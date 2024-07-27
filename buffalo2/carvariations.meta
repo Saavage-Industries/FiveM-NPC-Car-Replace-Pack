@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData> 
+	<Item>
+	  <modelName>buffalo2</modelName>
+	  <colors>
+		<Item>
+		  <indices content="char_array">
+			111
+			28
+			0
+			160
+			70
+			135
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+	  </colors>
+	  <kits>
+		<Item>633_buffalo2_modkit</Item>
+	  </kits>
+	  <windowsWithExposedEdges />
+	  <plateProbabilities>
+		<Probabilities>
+          <Item>
+			<Name>Yellow Plate</Name>
+			<Value value="100" />
+		  </Item>
+		</Probabilities>
+	  </plateProbabilities>
+	  <lightSettings value="1534" />        
+	  <sirenSettings value="0" />
+	</Item>       
+  </variationData>
+</CVehicleModelInfoVariation>
